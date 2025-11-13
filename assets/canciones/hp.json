@@ -1,0 +1,14 @@
+{
+    "title": "Hedwig's Theme - Harry Potter (Completa)",
+    "bpm": 100,
+    "notes": [
+        {"name":"G","octave":5,"beats":0.5},{"name":"D","octave":5,"beats":0.5},{"name":"E","octave":5,"beats":1},{"name":"C","octave":5,"beats":1},
+        {"name":"B","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"C","octave":5,"beats":1},{"name":"R","octave":0,"beats":0.5},
+        {"name":"D","octave":5,"beats":0.5},{"name":"E","octave":5,"beats":0.5},{"name":"F","octave":5,"beats":1},{"name":"D","octave":5,"beats":1},
+        {"name":"C","octave":5,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"D","octave":5,"beats":1},{"name":"R","octave":0,"beats":0.5},
+        {"name":"E","octave":5,"beats":0.5},{"name":"F","octave":5,"beats":0.5},{"name":"G","octave":5,"beats":1},{"name":"E","octave":5,"beats":1},
+        {"name":"D","octave":5,"beats":1},{"name":"B","octave":4,"beats":1},{"name":"E","octave":5,"beats":1},{"name":"R","octave":0,"beats":0.5},
+        {"name":"F","octave":5,"beats":0.5},{"name":"G","octave":5,"beats":0.5},{"name":"A","octave":5,"beats":1},{"name":"F","octave":5,"beats":1},
+        {"name":"E","octave":5,"beats":1},{"name":"C","octave":5,"beats":1},{"name":"D","octave":5,"beats":2},{"name":"R","octave":0,"beats":2}
+    ]
+}

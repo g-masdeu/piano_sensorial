@@ -1,0 +1,25 @@
+{
+    "title": "La Cucaracha (simplificada)",
+    "bpm": 112,
+    "notes": [
+    {"name":"E","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":1},
+    {"name":"F","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+
+    {"name":"E","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":1},
+    {"name":"F","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+
+    {"name":"G","octave":4,"beats":1},
+    {"name":"A","octave":4,"beats":1},
+    {"name":"A","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+
+    {"name":"F","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":1},
+    {"name":"D","octave":4,"beats":1},
+    {"name":"C","octave":4,"beats":2}
+    ]
+}

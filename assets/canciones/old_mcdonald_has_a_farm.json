@@ -1,0 +1,8 @@
+{
+    "title": "Old MacDonald Had a Farm",
+    "bpm": 112,
+    "notes": [
+        {"name":"G","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"D","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"D","octave":4,"beats":2},
+        {"name":"B","octave":4,"beats":1},{"name":"B","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":4}
+    ]
+}

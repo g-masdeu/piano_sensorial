@@ -1,0 +1,16 @@
+{
+    "title": "When the Saints Go Marching In",
+    "bpm": 112,
+    "notes": [
+        {"name":"C","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":2},
+        {"name":"C","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":2},
+
+        {"name":"A","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"C","octave":4,"beats":2},
+
+        {"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":2},
+        {"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":2},
+
+        {"name":"C","octave":5,"beats":1},{"name":"C","octave":5,"beats":1},{"name":"C","octave":5,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":2},
+        {"name":"C","octave":4,"beats":2},{"name":"R","octave":0,"beats":2}
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Mary Had a Little Lamb",
+  "bpm": 96,
+  "notes": [
+    {"name":"E","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1}, {"name":"C","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1}, {"name":"E","octave":4,"beats":2},
+
+    {"name":"D","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1}, {"name":"D","octave":4,"beats":2},
+
+    {"name":"E","octave":4,"beats":1}, {"name":"G","octave":4,"beats":1}, {"name":"G","octave":4,"beats":2},
+
+    {"name":"E","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1}, {"name":"C","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1},
+
+    {"name":"D","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1},
+    {"name":"C","octave":4,"beats":2}
+  ]
+}

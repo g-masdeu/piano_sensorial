@@ -1,0 +1,20 @@
+{
+  "title": "Frère Jacques",
+  "bpm": 96,
+  "notes": [
+    {"name":"C","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1}, {"name":"C","octave":4,"beats":1},
+    {"name":"C","octave":4,"beats":1}, {"name":"D","octave":4,"beats":1}, {"name":"E","octave":4,"beats":1}, {"name":"C","octave":4,"beats":1},
+
+    {"name":"E","octave":4,"beats":1}, {"name":"F","octave":4,"beats":1}, {"name":"G","octave":4,"beats":2},
+    {"name":"E","octave":4,"beats":1}, {"name":"F","octave":4,"beats":1}, {"name":"G","octave":4,"beats":2},
+
+    {"name":"G","octave":4,"beats":0.5}, {"name":"A","octave":4,"beats":0.5}, {"name":"G","octave":4,"beats":0.5}, {"name":"F","octave":4,"beats":0.5},
+    {"name":"E","octave":4,"beats":1}, {"name":"C","octave":4,"beats":1},
+
+    {"name":"G","octave":4,"beats":0.5}, {"name":"A","octave":4,"beats":0.5}, {"name":"G","octave":4,"beats":0.5}, {"name":"F","octave":4,"beats":0.5},
+    {"name":"E","octave":4,"beats":1}, {"name":"C","octave":4,"beats":1},
+
+    {"name":"C","octave":4,"beats":1}, {"name":"G","octave":3,"beats":1}, {"name":"C","octave":4,"beats":2},
+    {"name":"C","octave":4,"beats":1}, {"name":"G","octave":3,"beats":1}, {"name":"C","octave":4,"beats":2}
+  ]
+}

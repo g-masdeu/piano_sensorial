@@ -1,0 +1,17 @@
+{
+    "title": "London Bridge Is Falling Down",
+    "bpm": 104,
+    "notes": [
+        {"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":2},
+        {"name":"D","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":2},
+
+        {"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":2},
+        {"name":"D","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"C","octave":4,"beats":2},
+
+        {"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":2},
+        {"name":"E","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":2},
+
+        {"name":"G","octave":4,"beats":1},{"name":"A","octave":4,"beats":1},{"name":"G","octave":4,"beats":1},{"name":"F","octave":4,"beats":1},{"name":"E","octave":4,"beats":1},{"name":"D","octave":4,"beats":1},{"name":"C","octave":4,"beats":2},
+        {"name":"C","octave":4,"beats":2},{"name":"R","octave":0,"beats":2}
+    ]
+}

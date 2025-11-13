@@ -1,0 +1,33 @@
+{
+    "title": "El señor de los Anillos",
+    "bpm": 96,
+    "notes": [
+        {"name": "R","octave":0, "beats":1},{"name": "R","octave":0, "beats":1},{"name": "R","octave":0, "beats":1},{"name": "C","octave":4, "beats":0.5},{"name": "D","octave":4, "beats":0.5},
+        {"name": "E","octave":4, "beats":1},{"name": "G","octave":4, "beats":1},{"name": "E","octave":4, "beats":1},{"name": "D","octave":4, "beats":1},
+        {"name": "C","octave":4, "beats":2},{"name": "R","octave":0, "beats":1}, {"name": "E","octave":4, "beats":0.5},{"name": "G","octave":4, "beats":0.5},
+        {"name": "A","octave":4, "beats":1},{"name": "C","octave":5, "beats":1},{"name": "B","octave":4, "beats":1},{"name": "G","octave":4, "beats":1},
+        {"name": "E","octave":4, "beats":2},{"name": "D","octave":4, "beats":1},{"name": "C","octave":4, "beats":0.5},{"name": "D","octave":4, "beats":0.5},
+        {"name": "E","octave":4, "beats":1},{"name": "G","octave":4, "beats":1},{"name": "E","octave":4, "beats":1},{"name": "D","octave":4, "beats":1},
+        {"name": "C","octave":4, "beats":2},{"name": "R","octave":0, "beats":1}, {"name": "E","octave":4, "beats":0.5},{"name": "G","octave":4, "beats":0.5},
+        {"name": "A","octave":4, "beats":1},{"name": "C","octave":5, "beats":1},{"name": "B","octave":4, "beats":1},{"name": "G","octave":4, "beats":1},
+        {"name": "E","octave":4, "beats":2},{"name": "D","octave":4, "beats":2},
+        {"name": "C","octave":4, "beats":3},{"name": "R","octave":0, "beats":1},
+
+        {"name": "A","octave":4, "beats":2},{"name": "G","octave":4, "beats":1.5},{"name": "G","octave":4, "beats":0.25},{"name": "G","octave":4, "beats":0.25},
+        {"name": "A","octave":4, "beats":3},{"name": "R","octave":0, "beats":0.5},{"name": "A","octave":4, "beats":0.25},{"name": "B","octave":4, "beats":0.25},
+        {"name": "C","octave":5, "beats":1.5},{"name": "B","octave":4, "beats":0.25},{"name": "A","octave":4, "beats":0.25},{"name": "G","octave":4, "beats":1.5},{"name": "A", "octave": 4, "beats": 0.25},{"name": "B","octave": 4, "beats": 0.25},
+        {"name": "A", "octave": 4, "beats":2}, {"name": "G", "octave": 4, "beats": 1},{"name": "G", "octave": 4, "beats": 1},
+        {"name": "A","octave":4, "beats":2},{"name": "G","octave":4, "beats":1.5},{"name": "G","octave":4, "beats":0.25},{"name": "G","octave":4, "beats":0.25},
+        {"name": "A","octave":4, "beats":3},{"name": "R","octave":0, "beats":0.5},{"name": "A","octave":4, "beats":0.25},{"name": "B","octave":4, "beats":0.25},
+        {"name": "C","octave":5, "beats":1.5},{"name": "B","octave":4, "beats":0.25},{"name": "A","octave":4, "beats":0.25},{"name": "G","octave":4, "beats":1.5},{"name": "A", "octave": 4, "beats": 0.25},{"name": "B","octave": 4, "beats": 0.25},
+        {"name": "A", "octave": 4, "beats":2}, {"name": "G", "octave": 4, "beats": 1},{"name": "G", "octave": 4, "beats": 1},
+
+        {"name": "A","octave":4, "beats":2},{"name": "R","octave":0, "beats":1},{"name": "C","octave":4, "beats":0.5},{"name": "D","octave":4, "beats":0.5},
+        {"name": "E","octave":4, "beats":1},{"name": "G","octave":4, "beats":1},{"name": "E","octave":4, "beats":1},{"name": "D","octave":4, "beats":1},
+        {"name": "C","octave":4, "beats":2},{"name": "R","octave":0, "beats":1}, {"name": "E","octave":4, "beats":0.5},{"name": "G","octave":4, "beats":0.5},
+        {"name": "A","octave":4, "beats":1},{"name": "C","octave":5, "beats":1},{"name": "B","octave":4, "beats":1},{"name": "G","octave":4, "beats":1},
+        {"name":"E","octave":4,"beats":2},{"name":"D","octave":4,"beats":2},
+        {"name":"C","octave":4,"beats":4}
+    ]
+}
+

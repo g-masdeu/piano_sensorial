@@ -1,0 +1,21 @@
+{
+    "title": "Brahms' Lullaby",
+    "bpm": 72,
+    "notes": [
+    {"name":"G","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+    {"name":"A","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+    {"name":"A","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":2},
+
+    {"name":"G","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+    {"name":"A","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+    {"name":"A","octave":4,"beats":1},
+    {"name":"G","octave":4,"beats":1},
+    {"name":"E","octave":4,"beats":2}
+    ]
+}
